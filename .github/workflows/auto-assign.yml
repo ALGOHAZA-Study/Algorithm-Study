@@ -1,0 +1,19 @@
+name: Auto Assign For Solve Label
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  run:
+    if: contains(github.event.pull_request.labels.*.name, 'Solve')
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - name: 'Auto-assign'
+      uses: pozil/auto-assign-issue@v1
+      with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          assignees: jbw9964
+          numOfAssignee: 1
