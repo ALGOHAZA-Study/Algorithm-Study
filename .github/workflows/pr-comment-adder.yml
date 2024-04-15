@@ -1,4 +1,4 @@
-name: PR Comment Adder For `Solve` Label
+name: PR Comment Adder For Solve Label
 on:
   pull_request:
 
