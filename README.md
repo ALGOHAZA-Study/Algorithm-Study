@@ -2,7 +2,7 @@
 
 ---
 
-## 🤷‍♂️ What is ALGOHAZA?
+## 🤷‍♂️ What is ALGO-HAZA?
 
 #### 알고하자는 정기적 알고리즘 풀이를 목적으로 하는 모임입니다. 
 
@@ -28,9 +28,9 @@
 - 풀이한 문제마다 다음을 포함한 파일들이 존재해야 합니다.
 
     - a. 문제의 간략한 설명
-    b. 문제 풀이 방법 정리
-    c. 문제 해결 인증 스크린샷
-    d. 정답 소스코드
+    - b. 문제 풀이 방법 정리
+    - c. 문제 해결 인증 스크린샷
+    - d. 정답 소스코드
 
 - 각 파일은 `markdown` `(.md)` 으로 제작하는 것을 권장합니다.
 - `PR` 제출 후, 관리자의 리뷰에 따라 `PR` 이 승인됩니다.
@@ -83,7 +83,7 @@ jbw9964/                    # 멤버 별 활동 폴더
 
 ---
 
-## `Commit 예시` & `PR` 규칙
+## 🔖 `Commit 예시` & `PR` 규칙
 
 #### - [`Commit 예시`](./docs/rules/github_repository/commit_and_organization.md#🔖-commits)
 
@@ -92,10 +92,23 @@ jbw9964/                    # 멤버 별 활동 폴더
 
 ---
 
+## 📑 Repository Description
+
+|`Directory`|`Description`|
+|:---:|---|
+|`/assets`|  저장소의 예시, 이미지 등이 저장된 폴더입니다. |
+|`/docs`|  저장소와 관련된 문서 등이 저장된 폴더입니다.  |
+|`{Github ID}`|  멤버별 활동이 저장된 폴더입니다.  |
+|[`경고조회 페이지`](https://github.com/ALGOHAZA-Study/Algorithm-Study/wiki/%EA%B2%BD%EA%B3%A0-%EC%A1%B0%ED%9A%8C-%ED%8E%98%EC%9D%B4%EC%A7%80)|  멤버별 누적된 경고를 조회하는 페이지입니다.  |
+
+
+
+---
+
 ## 👋 Members
 
-|      ![image](https://github.com/jbw9964)    |               |
+|      <img src="https://avatars.githubusercontent.com/jbw9964" width=100px height=100px>    |               |
 |:---:|:---:|
-|`jbw9964`|   |
+|[`jbw9964`](https://github.com/jbw9964)|   |
 
 ---
