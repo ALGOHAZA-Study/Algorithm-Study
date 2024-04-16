@@ -115,6 +115,21 @@ jbw9964/                    # 멤버 별 활동 폴더
             <br />
             <a href="https://github.com/jbw9964">jbw9964</a>    <!-- github link & nickname -->
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/uuccu"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/uuccu "/></a>
+            <br />
+            <a href="https://github.com/uuccu">TwoCastle9</a>    
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/Mungjin01"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/Mungjin01"/></a>
+            <br />
+            <a href="https://github.com/Mungjin01">Mungjin01</a>    
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/phs7646"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/phs7646"/></a>
+            <br />
+            <a href="https://github.com/phs7646"> phs7646</a>    
+        </td>
     </tr>
     <tr height="50px">
     <!-- solve.ac profile & tier : paste block down below -->
@@ -124,6 +139,27 @@ jbw9964/                    # 멤버 별 활동 폴더
             <a href="https://www.acmicpc.net/user/jbw9964">Baekjoon</a>     <!-- BAJ profile -->
             <br />
             <a href="https://solved.ac/profile/jbw9964">solved.ac</a>       <!-- solved.ac profile -->
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=msmsms0804" />
+            <br />
+            <a href="https://www.acmicpc.net/user/msmsms0804">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/msmsms0804">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=l_min402" />
+            <br />
+            <a href="https://www.acmicpc.net/user/l_min402">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/l_min402">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=phs7646" />
+            <br />
+            <a href="https://www.acmicpc.net/user/phs7646">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/phs7646">solved.ac</a>
         </td>
     </tr>
 </table>
@@ -143,9 +179,9 @@ jbw9964/                    # 멤버 별 활동 폴더
 <td align="center">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj= {BAJ ID} " />
     <br />
-    <a href="https://www.acmicpc.net/user/ {BAJ ID} ">Baekjoon</a>
+    <a href=" {BAJ Profile Link} ">Baekjoon</a>
     <br />
-    <a href="https://solved.ac/profile/ {solved.ac ID} ">solved.ac</a>
+    <a href=" {solved.ac Profile Link} ">solved.ac</a>
 </td>
 
 -->
