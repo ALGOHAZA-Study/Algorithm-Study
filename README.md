@@ -107,8 +107,47 @@ jbw9964/                    # 멤버 별 활동 폴더
 
 ## 👋 Members
 
-|      <img src="https://avatars.githubusercontent.com/jbw9964" width=100px height=100px>    |               |
-|:---:|:---:|
-|[`jbw9964`](https://github.com/jbw9964)|   |
+<table>
+    <tr height="140x">
+    <!-- Image & Github nickname : paste block down below -->
+        <td align="center" width="130px">
+            <a href="https://github.com/jbw9964"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/jbw9964"/></a>    <!-- github link, github profile image -->
+            <br />
+            <a href="https://github.com/jbw9964">jbw9964</a>    <!-- github link & nickname -->
+        </td>
+    </tr>
+    <tr height="50px">
+    <!-- solve.ac profile & tier : paste block down below -->
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jbw9964" />   <!-- solved.ac badge : put solved.ac ID -->
+            <br />
+            <a href="https://www.acmicpc.net/user/jbw9964">Baekjoon</a>     <!-- BAJ profile -->
+            <br />
+            <a href="https://solved.ac/profile/jbw9964">solved.ac</a>       <!-- solved.ac profile -->
+        </td>
+    </tr>
+</table>
+
+<!-- Image & Github nickname : paste block down below 
+
+<td align="center" width="130px">
+    <a href=" Github Profile Link "><img height="100px" width="100px" src="https://avatars.githubusercontent.com/ {Github ID} "/></a>
+    <br />
+    <a href=" Github Profile Link "> {Github ID} </a>    
+</td>
+
+-->
+
+<!-- solve.ac profile & tier : paste block down below
+
+<td align="center">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj= {BAJ ID} " />
+    <br />
+    <a href="https://www.acmicpc.net/user/ {BAJ ID} ">Baekjoon</a>
+    <br />
+    <a href="https://solved.ac/profile/ {solved.ac ID} ">solved.ac</a>
+</td>
+
+-->
 
 ---
