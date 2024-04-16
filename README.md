@@ -113,22 +113,27 @@ jbw9964/                    # 멤버 별 활동 폴더
         <td align="center" width="130px">
             <a href="https://github.com/jbw9964"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/jbw9964"/></a>    <!-- github link, github profile image -->
             <br />
-            <a href="https://github.com/jbw9964">jbw9964</a>    <!-- github link & nickname -->
+            <a href="https://github.com/jbw9964"> jbw9964 </a>    <!-- github link & nickname -->
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/uuccu"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/uuccu "/></a>
             <br />
-            <a href="https://github.com/uuccu">TwoCastle9</a>    
+            <a href="https://github.com/uuccu"> TwoCastle9 </a>    
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/Mungjin01"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/Mungjin01"/></a>
             <br />
-            <a href="https://github.com/Mungjin01">Mungjin01</a>    
+            <a href="https://github.com/Mungjin01"> Mungjin01 </a>    
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/phs7646"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/phs7646"/></a>
             <br />
-            <a href="https://github.com/phs7646"> phs7646</a>    
+            <a href="https://github.com/phs7646"> phs7646 </a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/Sikca"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/Sikca "/></a>
+            <br />
+            <a href="https://github.com/Sikca"> Sikca </a>    
         </td>
     </tr>
     <tr height="50px">
@@ -160,6 +165,13 @@ jbw9964/                    # 멤버 별 활동 폴더
             <a href="https://www.acmicpc.net/user/phs7646">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/phs7646">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=we12223" />
+            <br />
+            <a href="https://www.acmicpc.net/user/we12223">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/we12223">solved.ac</a>
         </td>
     </tr>
 </table>
