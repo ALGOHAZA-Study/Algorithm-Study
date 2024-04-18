@@ -8,7 +8,7 @@
 
 디스코드에서 운영중이며 모각코, 문제풀이 공유 활동을 진행하고 있습니다.
 
-- `discord` : [`link`]()
+- [![Discord](https://img.shields.io/discord/1228932539868250162?style=flat&logo=discord&logoColor=white&label=%EC%95%8C%EA%B3%A0%ED%95%98%EC%9E%90&labelColor=%235865F2&color=gray)](https://discord.gg/MdM8VsSASW)
 - 활동 시기 : `2024/04 ~ `
 
 ---
@@ -135,6 +135,11 @@ jbw9964/                    # 멤버 별 활동 폴더
             <br />
             <a href="https://github.com/Sikca"> Sikca </a>    
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/keltion"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/keltion "/></a>
+            <br />
+            <a href="https://github.com/keltion"> keltion </a>    
+        </td>
     </tr>
     <tr height="50px">
     <!-- solve.ac profile & tier : paste block down below -->
@@ -173,15 +178,6 @@ jbw9964/                    # 멤버 별 활동 폴더
             <br />
             <a href="https://solved.ac/profile/we12223">solved.ac</a>
         </td>
-    </tr>
-    <tr height="140x">
-        <td align="center" width="130px">
-            <a href="https://github.com/keltion"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/keltion "/></a>
-            <br />
-            <a href="https://github.com/keltion"> keltion </a>    
-        </td>
-    </tr>
-    <tr height="50px">
         <td align="center">
             <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=keltion" />
             <br />
