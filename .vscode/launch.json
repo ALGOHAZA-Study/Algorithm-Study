@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/algorithm/algohaza/Algorithm-Study/mungjin01/M_2024_04/P_2579",
-      "program": "d:/algorithm/algohaza/Algorithm-Study/mungjin01/M_2024_04/P_2579/build/Debug/outDebug",
+      "cwd": "d:/algorithm/algohaza/Algorithm-Study/mungjin01/Week_3/M_2024_04/P_2579",
+      "program": "d:/algorithm/algohaza/Algorithm-Study/mungjin01/Week_3/M_2024_04/P_2579/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
