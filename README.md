@@ -8,7 +8,7 @@
 
 디스코드에서 운영중이며 모각코, 문제풀이 공유 활동을 진행하고 있습니다.
 
-- `discord` : [`link`]()
+- [![Discord](https://img.shields.io/discord/1228932539868250162?style=flat&logo=discord&logoColor=white&label=%EC%95%8C%EA%B3%A0%ED%95%98%EC%9E%90&labelColor=%235865F2&color=gray)](https://discord.gg/MdM8VsSASW)
 - 활동 시기 : `2024/04 ~ `
 
 ---
@@ -113,7 +113,7 @@ jbw9964/                    # 멤버 별 활동 폴더
         <td align="center" width="130px">
             <a href="https://github.com/jbw9964"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/jbw9964"/></a>    <!-- github link, github profile image -->
             <br />
-            <a href="https://github.com/jbw9964"> jbw9964 </a>    <!-- github link & nickname -->
+            <a href="https://github.com/jbw9964"> 청주는사과아님 </a>    <!-- github link & nickname -->
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/uuccu"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/uuccu "/></a>
@@ -123,17 +123,17 @@ jbw9964/                    # 멤버 별 활동 폴더
         <td align="center" width="130px">
             <a href="https://github.com/Mungjin01"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/Mungjin01"/></a>
             <br />
-            <a href="https://github.com/Mungjin01"> Mungjin01 </a>    
-        </td>
-        <td align="center" width="130px">
-            <a href="https://github.com/phs7646"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/phs7646"/></a>
-            <br />
-            <a href="https://github.com/phs7646"> phs7646 </a>
+            <a href="https://github.com/Mungjin01"> Lee Jungmin </a>    
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/Sikca"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/Sikca "/></a>
             <br />
-            <a href="https://github.com/Sikca"> Sikca </a>    
+            <a href="https://github.com/Sikca"> we12223 </a>    
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/keltion"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/keltion "/></a>
+            <br />
+            <a href="https://github.com/keltion"> keltion </a>    
         </td>
     </tr>
     <tr height="50px">
@@ -160,28 +160,12 @@ jbw9964/                    # 멤버 별 활동 폴더
             <a href="https://solved.ac/profile/l_min402">solved.ac</a>
         </td>
         <td align="center">
-            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=phs7646" />
-            <br />
-            <a href="https://www.acmicpc.net/user/phs7646">Baekjoon</a>
-            <br />
-            <a href="https://solved.ac/profile/phs7646">solved.ac</a>
-        </td>
-        <td align="center">
             <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=we12223" />
             <br />
             <a href="https://www.acmicpc.net/user/we12223">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/we12223">solved.ac</a>
         </td>
-    </tr>
-    <tr height="140x">
-        <td align="center" width="130px">
-            <a href="https://github.com/keltion"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/keltion "/></a>
-            <br />
-            <a href="https://github.com/keltion"> keltion </a>    
-        </td>
-    </tr>
-    <tr height="50px">
         <td align="center">
             <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=keltion" />
             <br />
@@ -219,5 +203,78 @@ jbw9964/                    # 멤버 별 활동 폴더
 </td>
 
 -->
+
+---
+
+## 📚 Contributors
+
+<table>
+    <tr height="140x">
+    <!-- Image & Github nickname : paste block down below -->
+        <td align="center" width="130px">
+            <a href="https://github.com/jbw9964"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/jbw9964"/></a>    <!-- github link, github profile image -->
+            <br />
+            <a href="https://github.com/jbw9964"> 청주는사과아님 </a>    <!-- github link & nickname -->
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/uuccu"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/uuccu "/></a>
+            <br />
+            <a href="https://github.com/uuccu"> TwoCastle9 </a>    
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/Mungjin01"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/Mungjin01"/></a>
+            <br />
+            <a href="https://github.com/Mungjin01"> Lee Jungmin </a>    
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/Sikca"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/Sikca "/></a>
+            <br />
+            <a href="https://github.com/Sikca"> we12223 </a>    
+        </td>
+        <!-- <td align="center" width="130px">
+            <a href="https://github.com/keltion"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/keltion "/></a>
+            <br />
+            <a href="https://github.com/keltion"> keltion </a>    
+        </td> -->
+    </tr>
+    <tr height="50px">
+    <!-- solve.ac profile & tier : paste block down below -->
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jbw9964" />   <!-- solved.ac badge : put solved.ac ID -->
+            <br />
+            <a href="https://www.acmicpc.net/user/jbw9964">Baekjoon</a>     <!-- BAJ profile -->
+            <br />
+            <a href="https://solved.ac/profile/jbw9964">solved.ac</a>       <!-- solved.ac profile -->
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=msmsms0804" />
+            <br />
+            <a href="https://www.acmicpc.net/user/msmsms0804">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/msmsms0804">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=l_min402" />
+            <br />
+            <a href="https://www.acmicpc.net/user/l_min402">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/l_min402">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=we12223" />
+            <br />
+            <a href="https://www.acmicpc.net/user/we12223">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/we12223">solved.ac</a>
+        </td>
+        <!-- <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=keltion" />
+            <br />
+            <a href="https://www.acmicpc.net/user/keltion">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/keltion">solved.ac</a>
+        </td> -->
+    </tr>
+</table>
 
 ---
