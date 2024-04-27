@@ -83,15 +83,8 @@ class RubiksCube    {
         indexDeque.add(new int[] {8, 7});
         indexDeque.add(new int[] {6, 3});
 
-        if (dir == Direction.CW)    {
-            Deque<int[]> tempDeque = new ArrayDeque<>(3);
-
-            while (indexDeque.size() > 1)
-            tempDeque.add(indexDeque.pollLast());
-
-            while (!tempDeque.isEmpty())
-            indexDeque.add(tempDeque.pollFirst());
-        }
+        if (dir == Direction.CW)
+        changeDirection(indexDeque);
 
         int[] prevIndex = indexDeque.poll();
 
@@ -142,7 +135,6 @@ class RubiksCube    {
 
         for (int i = 0; i < 3; i++)
         cube[prevFace.getIndex()][prevIndex[i]] = reserveColors[i];
-
     }
     private Deque<?>[] getAdjacentFaceAndIndex(Face face, Direction dir)  {
         Deque<Face> adjacentFaceQueue = new ArrayDeque<>(4);
@@ -235,21 +227,20 @@ class RubiksCube    {
         }
 
         if (dir == Direction.CW)    {
-            Deque<Object> tempDeque = new ArrayDeque<>(3);
-            while (adjacentFaceQueue.size() > 1)
-            tempDeque.add((Object) adjacentFaceQueue.pollLast());
-
-            while (!tempDeque.isEmpty())
-            adjacentFaceQueue.add((Face) tempDeque.pollFirst());
-
-            while (colorSwapIndexQueue.size() > 1)
-            tempDeque.add((Object) colorSwapIndexQueue.pollLast());
-
-            while (!tempDeque.isEmpty())
-            colorSwapIndexQueue.add((int[]) tempDeque.pollFirst());
+            changeDirection(adjacentFaceQueue);
+            changeDirection(colorSwapIndexQueue);
         }
 
         return new Deque[] {adjacentFaceQueue, colorSwapIndexQueue};
+    }
+
+    private static <T> void changeDirection(Deque<T> deque) {
+        Deque<T> tempDeque = new ArrayDeque<>();
+        
+        while (deque.size() > 1)
+        tempDeque.add(deque.pollLast());
+
+        deque.addAll(tempDeque);
     }
 
     @Override
